@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Princy Singh
+- 👋 Hi, I’m Princey Singh
 - 👀Data engg
 - 🌱 Big data
 - 📫 princys721@gmail.com
@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <a href="www.linkedin.com/in/princy-singh-942928132">
-  <img align="left" alt="Princy's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Princey's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 
